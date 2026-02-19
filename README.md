@@ -1,0 +1,2 @@
+# TeamManagementSystem
+一个辩论队的管理系统，包含队员和比赛的统计以及统计模块
